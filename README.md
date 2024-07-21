@@ -15,7 +15,7 @@
   
 📚 IT student with a high passion for learning and use new technologies.
 
-💻 5 years studying and learning technologies such as: React, TypeScript, Python (Data Science and AI 🤖), JavaScript, Java, Linux (Debian)🐧, C#, C++, SQL (MariaDB, MySQL) and NoSQL (MongoDB) databases, Git, among others
+💻 5 years studying and learning technologies such as: React, TypeScript, Python (Data Science and AI 🤖), JavaScript, Java, Linux 🐧(Debian), C#, C++, SQL (MariaDB, MySQL) and NoSQL (MongoDB) databases, Git, among others.
 
 📝 Soft skills: mathematical ability, organization capacity, analysis capacity, team work, leadership and adaptability.
 
