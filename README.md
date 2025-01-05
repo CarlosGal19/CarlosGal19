@@ -7,7 +7,7 @@
 <a href = "mailto:c.galindo.islas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
