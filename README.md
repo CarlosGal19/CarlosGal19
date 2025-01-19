@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,npm,express,py,fastapi,mysql,mongodb,git,bash,linux,php,java,cs,postman,html,css,github,vscode,tailwind,cpp,arduino,debian,r,ubuntu,laravel,solidity,dotnet,next,bootstrap,vite,windows,prisma,postgres&perline=12" alt="IT SKILLS" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,npm,express,py,fastapi,mysql,mongodb,git,bash,linux,php,java,cs,postman,html,css,github,vscode,tailwind,cpp,arduino,debian,r,ubuntu,laravel,solidity,dotnet,next,bootstrap,vite,windows,prisma,postgres,docker&perline=12" alt="IT SKILLS" />
   </a>
 </p>
 <br>
