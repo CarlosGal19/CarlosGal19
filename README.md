@@ -11,9 +11,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 IT Engineering student 
+🎓 Software engineer
   
-📚 IT student with a high passion for learning and use new technologies.
+📚 Software engineer with a high passion for learning and use new technologies.
 
 💻 5 years studying and learning technologies such as: React, TypeScript, Python (Data Science and AI 🤖), JavaScript (Node.js), Java, Linux 🐧(Debian), C#, C++, SQL (PostgreSQL 🐘, SQL Server, MariaDB, MySQL 🐬) and NoSQL (MongoDB) databases, Git, among others.
 
