@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nest,dotnet,py,java,postgres,docker,git,linux,debian&perline=12" alt="IT SKILLS" />
+    <img src="https://skillicons.dev/icons?i=angular,nest,dotnet,py,java,react,postgres,docker,git,linux&perline=12" alt="IT SKILLS" />
   </a>
 </p>
 <br>
